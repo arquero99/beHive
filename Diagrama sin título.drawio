@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T20:22:01.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VCKdvick03M3rl4Xm6XE" version="21.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T20:54:31.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eAO3uDEtAfK_izTiO0pz" version="21.4.1" type="github">
   <diagram name="Página-1" id="aO1pB7Bg3boKhZ3RfOcW">
-    <mxGraphModel dx="1134" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2647" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QlTkq8WYhFlpVvzBfxse-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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76sZKoedzaWsAHRG7MgMDw+nUXeYcwDoMTk6MtMajaFd6XtX9PX1hY9/fFm4995705XfGhraGgYHG83lrp0ya9assP/++4fp07ueewC/I9c9beHChWHFim+EQw45JF3pvK6Hw8jISFi1alVoNIpngdx2221h+fKrm7+nUxYtWhw+85nPhvnzD0hXAPK4/fbbm/e0Tr7G881vXtS8px144Px0JQbGXmHx4sVh9uzZ6UrndT0cXk78SzzvvHM72jtbsmRJuPnmW8KCBQvSFYA8rr32mnDOOZ/q6D3tbW97W/iXf/lmeO1rX5uu5KH3AkCBcACgQDgAUCAcACjo+oT06Oho8zORr3zl2nDBBed3dGY/Tt7EJV4mpIHcrrvuq+H88/++oxPSRx11VLjhhv//woT0zJkzm59u63o43HTTjeHiiy9Oo9+1efOmsH79+o6uCd53333DQQe9LstfHsCLdeOets8++4TXvW7hC/e0s846Kyxdenrzezd1PRyuuurKcPbZZ6URAO34whcuDsuWfSyNusecAwAFwgGAAuEAQIFwAKBAOABQIBwAKBAOABQIBwAKhAMABcIBgALhAECBcACgQDgAUCAcACgQDgAUCAcACoQDAAXCAYAC4QBAQdffIf3www+HH/zgP9MIgHa84x3vDEceeWQadU/XwwGA3qOtBECBcACgQDgAUCAcACgQDgAUCAcACoQDAAXCAYAC4QBAgXAAoEA4AFAgHAAoEA4AFAgHAAqEAwAFwgGAlwjhvwF+YNs7/myk+QAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="150" width="104.27" height="100" as="geometry" />
+          <mxGeometry x="815.73" y="1210" width="104.27" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QlTkq8WYhFlpVvzBfxse-3" value="beeHive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="90" height="30" as="geometry" />
+          <mxGeometry x="815.73" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlTkq8WYhFlpVvzBfxse-4" target="QlTkq8WYhFlpVvzBfxse-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QlTkq8WYhFlpVvzBfxse-4" value="Temperature Sensors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="190" width="110" height="40" as="geometry" />
@@ -21,6 +24,11 @@
         </mxCell>
         <mxCell id="QlTkq8WYhFlpVvzBfxse-7" value="&lt;h1&gt;Temperature Comparition&lt;/h1&gt;&lt;div&gt;Comparing temperatures between inside the hive and outside can provide information about refrigeration/calefacting tecniques used by bees.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlTkq8WYhFlpVvzBfxse-8" target="QlTkq8WYhFlpVvzBfxse-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QlTkq8WYhFlpVvzBfxse-8" value="Electroconductivity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="110" height="40" as="geometry" />
@@ -46,17 +54,90 @@
         <mxCell id="QlTkq8WYhFlpVvzBfxse-20" value="&lt;h1&gt;Ambient Sensors&amp;nbsp;&lt;/h1&gt;&lt;div&gt;Environmental information can give context info about the hive&amp;nbsp; that can be usefull for data analysis and monitoring systems.&lt;/div&gt;&lt;div&gt;Humidity sensor gives relative humidity in %, and light sensor provides directly incided light in Lux.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="614" y="320" width="240" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlTkq8WYhFlpVvzBfxse-21" target="QlTkq8WYhFlpVvzBfxse-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="150" />
+              <mxPoint x="861" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QlTkq8WYhFlpVvzBfxse-21" value="Ambient sensors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="190.00000000000003" width="110" height="40" as="geometry" />
+          <mxGeometry x="670" y="190.00000000000003" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QlTkq8WYhFlpVvzBfxse-22" value="Light sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="253.00000000000003" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlTkq8WYhFlpVvzBfxse-23" target="QlTkq8WYhFlpVvzBfxse-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="150" />
+              <mxPoint x="861" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QlTkq8WYhFlpVvzBfxse-23" value="Wheight Sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="190.00000000000003" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QlTkq8WYhFlpVvzBfxse-24" value="&lt;h1&gt;Ambient Sensors&amp;nbsp;&lt;/h1&gt;&lt;div&gt;Environmental information can give context info about the hive&amp;nbsp; that can be usefull for data analysis and monitoring systems.&lt;/div&gt;&lt;div&gt;Humidity sensor gives relative humidity in %, and light sensor provides directly incided light in Lux.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-24" value="&lt;h1&gt;Honey Production stamation&amp;nbsp;&lt;/h1&gt;&lt;div&gt;Measuring the weight of each of the honeycombs can provide information about how many kilograms of honey are the bees producing.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="250" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QlTkq8WYhFlpVvzBfxse-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1241" y="150" />
+              <mxPoint x="861" y="150" />
+              <mxPoint x="861" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-29" value="Computer Vision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1186" y="190.00000000000003" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-30" value="&lt;h1&gt;Bee Traffic Analysis&amp;nbsp;&lt;/h1&gt;&lt;div&gt;Controlling how many bees goes inside/outside the coney comb can provide information aboutthe honeycomb life status and bee activy patterns.&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="250" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QlTkq8WYhFlpVvzBfxse-31" target="QlTkq8WYhFlpVvzBfxse-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1495" y="150" />
+              <mxPoint x="861" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-31" value="Microphone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="190.00000000000003" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-33" value="&lt;h1&gt;Activity Monitoritation&amp;nbsp;&lt;/h1&gt;&lt;div&gt;Monitoring the sound power emitted by the honeycomb (dB) and its tone (Hz) can give information of bee activity time frames and behaivoural patterns.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1414" y="250" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-36" value="Honeycomb Instrumentalitation" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;verticalAlign=top;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="550" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Design and implementation of a PCB containig various sensor drivers for the sistems above and supporting wireless comunnication and 12v power supply.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="630" width="226" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-40" value="SCADA system" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;verticalAlign=top;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="760" y="550" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;2&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="540" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Design and implementation of a software system capable of supervising all deployed devices and data logged in real time all an integrated dashboard. The system shoulld be also capable of exporting all sensor data in .csv format and call Remote Call Procedures (RPC). All the collected data should be saves in a time series data base.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="764" y="585" width="286" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-43" value="Data Analysis" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;verticalAlign=top;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="550" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;3&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="540" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QlTkq8WYhFlpVvzBfxse-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;All the collected data should be processed and analyzed using computer vision, data science and deep learning tecniques. Searching relationship between diferent collected data can help to privide suefull information for improving the honeycomb life quality.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1234" y="600" width="276" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
