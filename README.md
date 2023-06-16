@@ -10,3 +10,8 @@ Se listan distintos sistemas que se han de desarrollar en vinvulcación con este
 
 ![SistemasPropuestos](/imgs/SistemasADesarrollar.png)
 
+## Refernecias
+Aqui se listan otros proyectos dispobibles relacionados que resulten interesantes:
++ Dataset extracted from video, for pollen detection. [DatasetPolen](https://github.com/piperod/PollenDataset/tree/master)
++ Installer for a smart IoT beehive scale based on Raspberry Pi. [Henoy-Pi](https://github.com/Honey-Pi/HoneyPi)
++ IoT beehive monitoring system with LoRa. [LoRaMonitoring](https://github.com/DanNduati/IoT-beehive-monitoring-system)
