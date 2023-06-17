@@ -15,3 +15,6 @@ Aqui se listan otros proyectos dispobibles relacionados que resulten interesante
 + Dataset extracted from video, for pollen detection. [DatasetPolen](https://github.com/piperod/PollenDataset/tree/master)
 + Installer for a smart IoT beehive scale based on Raspberry Pi. [Henoy-Pi](https://github.com/Honey-Pi/HoneyPi)
 + IoT beehive monitoring system with LoRa. [LoRaMonitoring](https://github.com/DanNduati/IoT-beehive-monitoring-system)
++ Proyecto maduro de monitorización IoT. [amohive](https://amohive.com/)
++ Proyecto financiado por la unión europea concluido en 2020. [IoBee](https://io-bee.eu/)
+
