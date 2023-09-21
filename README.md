@@ -23,6 +23,7 @@ Aqui se listan otros proyectos dispobibles relacionados que resulten interesante
 + IoT beehive monitoring system with LoRa. [LoRaMonitoring](https://github.com/DanNduati/IoT-beehive-monitoring-system)
 + Proyecto maduro de monitorización IoT. [amohive](https://amohive.com/)
 + Proyecto financiado por la unión europea concluido en 2020. [IoBee](https://io-bee.eu/)
++ Documental de 25 minutos con entrevistas y puntos de vista interesantes. [ElEscarabajoVerde](https://www.rtve.es/play/videos/el-escarabajo-verde/dulce-desafio/6910787/)
 
 ### Papers
 + Rahman Tashakkori, Abdelbaset S. Hamza, Michael B. Crawford,Beemon: An IoT-based beehive monitoring system,Computers and Electronics in Agriculture,Volume 190, 2021,106427,ISSN 0168-1699,https://doi.org/10.1016/j.compag.2021.106427. [ScienceDirect](
